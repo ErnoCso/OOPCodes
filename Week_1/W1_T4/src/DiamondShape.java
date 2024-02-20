@@ -1,13 +1,13 @@
 // Write and application that prints the following diamond shape. 
 // Don’t print any unneeded characters.
 // 
-//               *
+//                   *
 // 	            ***
 // 	           *****
 // 	          *******
-//             *****
-//              ***
-//               *
+//                 *****
+//                  ***
+//                   *
 
 
 public class DiamondShape {
