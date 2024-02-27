@@ -1,3 +1,6 @@
+// Task_4
+
+// Diamond Shape
 // Write and application that prints the following diamond shape. 
 // Don’t print any unneeded characters.
 // 
