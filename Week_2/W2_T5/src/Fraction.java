@@ -30,12 +30,8 @@ public class Fraction {
 			}
 		}
 		scan.close();
-
-   
 	}
-
 }
-
 
 // Output:
 //
