@@ -1,3 +1,16 @@
+// Task_1
+
+// Computing A Pay Increase
+
+// File Salary.java contains most of a program that takes as input an employee's salary and 
+// a rating of the employee's performance and computes the raise for the employee. 
+// The performance rating here is being entered as a String—the three possible ratings are 
+// "Excellent", "Good", and "Poor". An employee who is rated excellent will receive a 6% raise, 
+// one rated good will receive a 4% raise, and one rated poor will receive a 1.5% raise.
+
+// Add the if... else... statements to program Salary to make it run as described above. 
+// Note that you will have to use the equals method of the String class 
+// (not the relational operator ==) to compare two strings.
 
 // ***************************************************************
 //  Salary.java
