@@ -1,8 +1,11 @@
+// Task_2 
 
-// 	2) “Test”. Enter, compile and run the following application.
-
-//	Introduce the following errors, one at a time. Note any messages that the compiler produces. 
-//	Fix the previous error each time. If no error messages are produced, be prepared to explain why.
+// Test.
+// Enter, compile and run the following application.
+// Introduce the following errors, one at a time. 
+// Note any messages that the compiler produces. 
+// Fix the previous error each time. 
+// If no error messages are produced, be prepared to explain why.
 	
 public class Test
 {
@@ -18,13 +21,13 @@ public class Test
   
 }
 
-//	Output:
+// Output:
 
-//	----------------------
-//	|         TEST       |
-//	----------------------
+// ----------------------
+// |         TEST       |
+// ----------------------
 //	
-//	An Emergency Broadcast
+// An Emergency Broadcast
 
 // a) Change Test to test
 // 
