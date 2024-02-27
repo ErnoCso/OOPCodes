@@ -1,6 +1,7 @@
 // Task_5
 // 
-// Fraction Write an application that prompts and reads the numerator and 
+// Fraction
+// Write an application that prompts and reads the numerator and 
 // denominator of a fraction as integers and then prints the decimal equivalent of the fraction.
 
 import java.util.Scanner;
