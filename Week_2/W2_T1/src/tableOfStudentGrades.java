@@ -1,10 +1,9 @@
 
 // Task_1
-//
+
+// Table of Student Grades
 // Write a Java program that prints a table with a list of at least 5 students
 // together with their grades earned (lab points, bonus points, and the total) in the format below.
-
-
 
 public class tableOfStudentGrades {
 
@@ -27,11 +26,8 @@ public class tableOfStudentGrades {
 
 			LabsAndBonuses[i] = labs[i] + bonuses[i];
 			System.out.println(names[i] + "\t\t" + labs[i]+"\t " + bonuses[i]+ "\t " + LabsAndBonuses[i]);
-			
 		}
-		
 	}
-
 }
 
 
@@ -42,8 +38,8 @@ public class tableOfStudentGrades {
 // \\\\\\\\\\\\\\\\\\\///////////////////
 // Name		Lab	Bonus	Total
 // ----		---	-----	-----
-// Ryan	    	48	7	55
-// Maurice		50	8	58
-// William		39	10	49
-// Joshua		49	9	58
-// Muhamed		50	10	60
+// Ryan	    	48	 7	 55
+// Maurice	50	 8	 58
+// William	39	 10	 49
+// Joshua	49	 9	 58
+// Muhamed	50	 10	 60
