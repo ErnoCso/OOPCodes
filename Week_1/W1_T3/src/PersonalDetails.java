@@ -1,6 +1,8 @@
+// Task_1
 
-//	3) Create a second project called “PersonalDetails” and write a program that outputs
-//	   some personal details to the screen, e.g., Name, Address, Age, Phone number etc.
+// Personal Details
+// Create a second project called “PersonalDetails” and write a program that outputs
+// some personal details to the screen, e.g., Name, Address, Age, Phone number etc.
 
 import java.util.Scanner;
 
