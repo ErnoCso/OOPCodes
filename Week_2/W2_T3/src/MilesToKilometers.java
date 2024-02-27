@@ -1,6 +1,6 @@
 // Task_3
 // 
-// Miles to Kilometres ***
+// Miles to Kilometres
 // Write an application that converts miles to kilometres.
 // (One mile equals 1.60935 km). 
 // Read the miles from the user as a floating point value.
@@ -26,9 +26,7 @@ public class MilesToKilometers {
 	       
 	       kilometres = miles*convNum;
 	       System.out.println("\n" + miles + " miles = " + kilometres + " kilometres");
-
 	}
-
 }
 
 // Output:
